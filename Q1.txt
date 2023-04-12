@@ -1,0 +1,40 @@
+My name is Ates Can Ates
+Ascii values for my name are:
+A: 65
+t: 116
+e: 101
+s: 115
+_: 32
+C: 67
+a: 97
+n: 110
+
+and my surname:
+A: 65
+t: 116
+e: 101
+s: 115
+
+If I were to take my full name:
+A: 65
+t: 116
+e: 101
+s: 115
+_: 32
+C: 67
+a: 97
+n: 110
+_: 32
+A: 65
+t: 116
+e: 101
+s: 115
+
+If I take the sum of these values,
+Asciiname= 703
+Asciisurname= 397
+Asciitotal= 1184
+Timernumber= 9
+ARRNUMBER= 65536-1
+Duration= 11910
+LEDPINNUMBER= 12
